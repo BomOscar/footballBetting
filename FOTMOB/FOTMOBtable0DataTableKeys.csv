@@ -1,0 +1,1132 @@
+JsonObject,TeamName,ShortName,TeamID,PageUrl,Played,Wins,Draws,Loss,GScored,OppGScored,GoalDiff,Points,TIdx
+Processing JSON object 1,,,,,,,,,,,,,
+2010/2011,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,23,11,4,78,37,41,80,1
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,21,8,9,69,33,36,71,2
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,21,8,9,60,33,27,71,3
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,19,11,8,72,43,29,68,4
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,16,14,8,55,46,9,62,5
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,17,7,14,59,44,15,58,6
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,13,15,10,51,45,6,54,7
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,38,11,16,11,49,43,6,49,8
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,38,12,12,14,48,59,-11,48,9
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,38,12,11,15,45,56,-11,47,10
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,38,12,11,15,56,71,-15,47,11
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,38,11,13,14,56,57,-1,46,12
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,38,13,7,18,46,48,-2,46,13
+,Bolton Wanderers,Bolton,8559,                    /teams/8559/overview/bolton-wanderers,38,12,10,16,52,56,-4,46,14
+,Blackburn Rovers,Blackburn,8655,                    /teams/8655/overview/blackburn-rovers,38,11,10,17,46,59,-13,43,15
+,Wigan Athletic,Wigan,8528,                    /teams/8528/overview/wigan-athletic,38,9,15,14,40,61,-21,42,16
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,38,11,7,20,46,66,-20,40,17
+,Birmingham City,Birmingham,8658,                    /teams/8658/overview/birmingham-city,38,8,15,15,37,58,-21,39,18
+,Blackpool,Blackpool,8483,                    /teams/8483/overview/blackpool,38,10,9,19,55,78,-23,39,19
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,38,7,12,19,43,70,-27,33,20
+---------HOME----------,,,,,,,,,,,,,
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,18,1,0,49,12,37,55,1
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,14,3,2,39,13,26,45,2
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,13,4,2,34,12,22,43,3
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,12,4,3,37,14,23,40,4
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,11,4,4,33,15,18,37,5
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,9,9,1,30,19,11,36,6
+,Bolton Wanderers,Bolton,8559,                    /teams/8559/overview/bolton-wanderers,19,10,5,4,34,24,10,35,7
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,10,4,5,31,18,13,34,8
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,9,7,3,31,23,8,34,9
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,8,7,4,30,23,7,31,10
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,8,7,4,26,19,7,31,11
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,8,6,5,30,30,0,30,12
+,Blackburn Rovers,Blackburn,8655,                    /teams/8655/overview/blackburn-rovers,19,7,7,5,22,16,6,28,13
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,8,4,7,30,30,0,28,14
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,6,8,5,41,27,14,26,15
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,7,5,7,25,27,-2,26,16
+,Birmingham City,Birmingham,8658,                    /teams/8658/overview/birmingham-city,19,6,8,5,19,22,-3,26,17
+,Wigan Athletic,Wigan,8528,                    /teams/8528/overview/wigan-athletic,19,5,8,6,22,34,-12,23,18
+,Blackpool,Blackpool,8483,                    /teams/8483/overview/blackpool,19,5,5,9,30,37,-7,20,19
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,5,5,9,24,31,-7,20,20
+---------AWAY----------,,,,,,,,,,,,,
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,8,7,4,39,28,11,31,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,8,4,7,26,21,5,28,2
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,7,5,7,30,20,10,26,3
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,7,5,7,25,27,-2,26,4
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,5,10,4,29,25,4,25,5
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,5,6,8,20,29,-9,21,6
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,4,8,7,20,22,-2,20,7
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,5,5,9,15,30,-15,20,8
+,Wigan Athletic,Wigan,8528,                    /teams/8528/overview/wigan-athletic,19,4,7,8,18,27,-9,19,9
+,Blackpool,Blackpool,8483,                    /teams/8483/overview/blackpool,19,5,4,10,25,41,-16,19,10
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,3,9,7,19,20,-1,18,11
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,5,3,11,22,30,-8,18,12
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,4,5,10,26,41,-15,17,13
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,4,5,10,22,40,-18,17,14
+,Blackburn Rovers,Blackburn,8655,                    /teams/8655/overview/blackburn-rovers,19,4,3,12,24,43,-19,15,15
+,Birmingham City,Birmingham,8658,                    /teams/8658/overview/birmingham-city,19,2,7,10,18,36,-18,13,16
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,2,7,10,19,39,-20,13,17
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,3,3,13,15,30,-15,12,18
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,3,3,13,16,36,-20,12,19
+,Bolton Wanderers,Bolton,8559,                    /teams/8559/overview/bolton-wanderers,19,2,5,12,18,32,-14,11,20
+---------FORM----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,4,0,1,9,3,6,12,1
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,5,3,1,1,12,7,5,10,2
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,3,1,1,8,5,3,10,3
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,3,0,2,13,5,8,9,4
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,5,3,0,2,10,9,1,9,5
+,Blackburn Rovers,Blackburn,8655,                    /teams/8655/overview/blackburn-rovers,5,2,2,1,6,5,1,8,6
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,5,2,2,1,6,5,1,8,7
+,Wigan Athletic,Wigan,8528,                    /teams/8528/overview/wigan-athletic,5,2,2,1,8,8,0,8,8
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,5,2,2,1,9,9,0,8,9
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,2,1,2,8,6,2,7,10
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,2,1,2,6,5,1,7,11
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,5,2,1,2,6,5,1,7,12
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,5,2,1,2,9,9,0,7,13
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,2,1,2,4,4,0,7,14
+,Blackpool,Blackpool,8483,                    /teams/8483/overview/blackpool,5,1,3,1,8,9,-1,6,15
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,5,1,3,1,8,10,-2,6,16
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,1,1,3,6,9,-3,4,17
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,5,0,1,4,4,12,-8,1,18
+,Birmingham City,Birmingham,8658,                    /teams/8658/overview/birmingham-city,5,0,1,4,3,12,-9,1,19
+,Bolton Wanderers,Bolton,8559,                    /teams/8559/overview/bolton-wanderers,5,0,0,5,4,12,-8,0,20
+Processing JSON object 2,,,,,,,,,,,,,
+2011/2012,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,28,5,5,93,29,64,89,1
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,28,5,5,89,33,56,89,2
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,21,7,10,74,49,25,70,3
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,20,9,9,66,41,25,69,4
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,38,19,8,11,56,51,5,65,5
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,18,10,10,65,46,19,64,6
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,15,11,12,50,40,10,56,7
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,14,10,14,47,40,7,52,8
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,38,14,10,14,48,51,-3,52,9
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,38,13,8,17,45,52,-7,47,10
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,38,12,11,15,44,51,-7,47,11
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,38,12,11,15,52,66,-14,47,12
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,38,11,12,15,45,46,-1,45,13
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,38,11,12,15,36,53,-17,45,14
+,Wigan Athletic,Wigan,8528,                    /teams/8528/overview/wigan-athletic,38,11,10,17,42,62,-20,43,15
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,38,7,17,14,37,53,-16,38,16
+,Queens Park Rangers,QPR,10172,                    /teams/10172/overview/queens-park-rangers,38,10,7,21,43,66,-23,37,17
+,Bolton Wanderers,Bolton,8559,                    /teams/8559/overview/bolton-wanderers,38,10,6,22,46,77,-31,36,18
+,Blackburn Rovers,Blackburn,8655,                    /teams/8655/overview/blackburn-rovers,38,8,7,23,48,78,-30,31,19
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,38,5,10,23,40,82,-42,25,20
+---------HOME----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,18,1,0,55,12,43,55,1
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,15,2,2,52,19,33,47,2
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,13,3,3,39,17,22,42,3
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,12,4,3,39,17,22,40,4
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,12,3,4,41,24,17,39,5
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,11,5,3,29,17,12,38,6
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,10,5,4,36,26,10,35,7
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,10,3,6,28,15,13,33,8
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,8,7,4,27,18,9,31,9
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,7,8,4,25,20,5,29,10
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,7,7,5,26,17,9,28,11
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,6,9,4,24,16,8,27,12
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,19,7,6,6,28,30,-2,27,13
+,Queens Park Rangers,QPR,10172,                    /teams/10172/overview/queens-park-rangers,19,7,5,7,24,25,-1,26,14
+,Wigan Athletic,Wigan,8528,                    /teams/8528/overview/wigan-athletic,19,5,7,7,22,27,-5,22,15
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,6,3,10,21,22,-1,21,16
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,4,7,8,20,25,-5,19,17
+,Blackburn Rovers,Blackburn,8655,                    /teams/8655/overview/blackburn-rovers,19,6,1,12,26,33,-7,19,18
+,Bolton Wanderers,Bolton,8559,                    /teams/8559/overview/bolton-wanderers,19,4,4,11,23,39,-16,16,19
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,3,3,13,19,43,-24,12,20
+---------AWAY----------,,,,,,,,,,,,,
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,13,3,3,37,14,23,42,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,10,4,5,38,17,21,34,2
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,9,3,7,35,32,3,30,3
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,7,6,6,27,24,3,27,4
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,8,3,8,27,34,-7,27,5
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,7,5,7,24,30,-6,26,6
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,6,7,6,24,22,2,25,7
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,8,1,10,23,24,-1,25,8
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,5,8,6,22,25,-3,23,9
+,Wigan Athletic,Wigan,8528,                    /teams/8528/overview/wigan-athletic,19,6,3,10,20,35,-15,21,10
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,19,5,5,9,24,36,-12,20,11
+,Bolton Wanderers,Bolton,8559,                    /teams/8559/overview/bolton-wanderers,19,6,2,11,23,38,-15,20,12
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,3,10,6,17,28,-11,19,13
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,4,5,10,19,29,-10,17,14
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,4,5,10,12,25,-13,17,15
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,4,4,11,17,33,-16,16,16
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,4,4,11,11,33,-22,16,17
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,2,7,10,21,39,-18,13,18
+,Blackburn Rovers,Blackburn,8655,                    /teams/8655/overview/blackburn-rovers,19,2,6,11,22,45,-23,12,19
+,Queens Park Rangers,QPR,10172,                    /teams/10172/overview/queens-park-rangers,19,3,2,14,19,41,-22,11,20
+---------FORM----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,5,0,0,14,3,11,15,1
+,Wigan Athletic,Wigan,8528,                    /teams/8528/overview/wigan-athletic,5,4,0,1,11,5,6,12,2
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,3,1,1,9,3,6,10,3
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,3,1,1,11,5,6,10,4
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,2,3,0,12,6,6,9,5
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,5,3,0,2,5,8,-3,9,6
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,5,2,2,1,9,7,2,8,7
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,5,2,2,1,6,5,1,8,8
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,2,1,2,9,8,1,7,9
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,2,0,3,7,4,3,6,10
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,1,3,1,8,8,0,6,11
+,Bolton Wanderers,Bolton,8559,                    /teams/8559/overview/bolton-wanderers,5,1,3,1,9,11,-2,6,12
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,5,2,0,3,6,9,-3,6,13
+,Queens Park Rangers,QPR,10172,                    /teams/10172/overview/queens-park-rangers,5,2,0,3,5,10,-5,6,14
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,5,1,1,3,6,14,-8,4,15
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,5,0,3,2,3,5,-2,3,16
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,5,0,3,2,6,9,-3,3,17
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,5,0,3,2,2,5,-3,3,18
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,5,0,3,2,4,8,-4,3,19
+,Blackburn Rovers,Blackburn,8655,                    /teams/8655/overview/blackburn-rovers,5,1,0,4,3,8,-5,3,20
+Processing JSON object 3,,,,,,,,,,,,,
+2012/2013,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,28,5,5,86,43,43,89,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,23,9,6,66,34,32,78,2
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,22,9,7,75,39,36,75,3
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,21,10,7,72,37,35,73,4
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,21,9,8,66,46,20,72,5
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,16,15,7,55,40,15,63,6
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,16,13,9,71,43,28,61,7
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,38,14,7,17,53,57,-4,49,8
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,38,11,13,14,47,51,-4,46,9
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,38,12,10,16,45,53,-8,46,10
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,38,10,14,14,41,58,-17,44,11
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,38,11,10,17,50,60,-10,43,12
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,38,9,15,14,34,45,-11,42,13
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,38,9,14,15,49,60,-11,41,14
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,38,10,11,17,47,69,-22,41,15
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,38,11,8,19,45,68,-23,41,16
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,38,9,12,17,41,54,-13,39,17
+,Wigan Athletic,Wigan,8528,                    /teams/8528/overview/wigan-athletic,38,9,9,20,47,73,-26,36,18
+,Reading,Reading,9798,                    /teams/9798/overview/reading,38,6,10,22,43,73,-30,28,19
+,Queens Park Rangers,QPR,10172,                    /teams/10172/overview/queens-park-rangers,38,4,13,21,30,60,-30,25,20
+---------HOME----------,,,,,,,,,,,,,
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,16,0,3,45,19,26,48,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,14,3,2,41,15,26,45,2
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,12,6,1,33,17,16,42,3
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,12,5,2,41,16,25,41,4
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,11,5,3,47,23,24,38,5
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,11,5,3,29,18,11,38,6
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,9,6,4,33,16,17,33,7
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,9,6,4,34,22,12,33,8
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,9,4,6,32,25,7,31,9
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,19,8,7,4,25,20,5,31,10
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,7,7,5,21,22,-1,28,11
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,9,1,9,24,31,-7,28,12
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,6,8,5,28,26,2,26,13
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,6,7,6,26,24,2,25,14
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,7,3,9,28,30,-2,24,15
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,5,8,6,20,19,1,23,16
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,5,5,9,23,28,-5,20,17
+,Reading,Reading,9798,                    /teams/9798/overview/reading,19,4,8,7,23,33,-10,20,18
+,Wigan Athletic,Wigan,8528,                    /teams/8528/overview/wigan-athletic,19,4,6,9,26,39,-13,18,19
+,Queens Park Rangers,QPR,10172,                    /teams/10172/overview/queens-park-rangers,19,2,8,9,13,28,-15,14,20
+---------AWAY----------,,,,,,,,,,,,,
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,12,5,2,41,24,17,41,1
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,10,5,4,25,14,11,35,2
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,10,4,5,34,23,11,34,3
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,10,4,5,37,28,9,34,4
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,9,6,4,25,19,6,33,5
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,7,7,5,38,27,11,28,6
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,4,9,6,22,23,-1,21,7
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,5,6,8,24,41,-17,21,8
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,5,5,9,19,25,-6,20,9
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,4,7,8,22,30,-8,19,10
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,5,3,11,21,32,-11,18,11
+,Wigan Athletic,Wigan,8528,                    /teams/8528/overview/wigan-athletic,19,5,3,11,21,34,-13,18,12
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,3,7,9,23,36,-13,16,13
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,4,4,11,21,35,-14,16,14
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,2,8,9,13,23,-10,14,15
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,2,7,10,21,37,-16,13,16
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,3,4,12,11,31,-20,13,17
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,19,2,7,10,16,38,-22,13,18
+,Queens Park Rangers,QPR,10172,                    /teams/10172/overview/queens-park-rangers,19,2,5,12,17,32,-15,11,19
+,Reading,Reading,9798,                    /teams/9798/overview/reading,19,2,2,15,20,40,-20,8,20
+---------FORM----------,,,,,,,,,,,,,
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,4,1,0,8,2,6,13,1
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,4,1,0,9,4,5,13,2
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,3,2,0,12,3,9,11,3
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,3,2,0,8,5,3,11,4
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,3,1,1,7,4,3,10,5
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,5,3,0,2,10,6,4,9,6
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,2,2,1,11,8,3,8,7
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,5,2,2,1,6,4,2,8,8
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,5,2,1,2,11,9,2,7,9
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,5,2,1,2,7,6,1,7,10
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,2,1,2,4,3,1,7,11
+,Wigan Athletic,Wigan,8528,                    /teams/8528/overview/wigan-athletic,5,1,2,2,10,13,-3,5,12
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,5,1,2,2,4,9,-5,5,13
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,5,1,2,2,3,9,-6,5,14
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,5,1,1,3,10,13,-3,4,15
+,Reading,Reading,9798,                    /teams/9798/overview/reading,5,1,1,3,7,10,-3,4,16
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,5,1,1,3,4,9,-5,4,17
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,5,1,0,4,6,9,-3,3,18
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,5,0,3,2,2,6,-4,3,19
+,Queens Park Rangers,QPR,10172,                    /teams/10172/overview/queens-park-rangers,5,0,1,4,1,6,-5,1,20
+Processing JSON object 4,,,,,,,,,,,,,
+2013/2014,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,27,5,6,102,37,65,86,1
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,26,6,6,101,50,51,84,2
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,25,7,6,71,27,44,82,3
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,24,7,7,68,41,27,79,4
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,21,9,8,61,39,22,72,5
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,21,6,11,55,51,4,69,6
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,19,7,12,64,43,21,64,7
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,38,15,11,12,54,46,8,56,8
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,38,13,11,14,45,52,-7,50,9
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,38,15,4,19,43,59,-16,49,10
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,38,13,6,19,33,48,-15,45,11
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,38,11,9,18,54,54,0,42,12
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,38,11,7,20,40,51,-11,40,13
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,38,10,8,20,41,60,-19,38,14
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,38,10,8,20,39,61,-22,38,15
+,Hull City,Hull,8667,                    /teams/8667/overview/hull-city,38,10,7,21,38,53,-15,37,16
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,38,7,15,16,43,59,-16,36,17
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,38,8,9,21,28,62,-34,33,18
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,38,9,5,24,40,85,-45,32,19
+,Cardiff City,Cardiff,8344,                    /teams/8344/overview/cardiff-city,38,7,9,22,32,74,-42,30,20
+---------HOME----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,17,1,1,63,13,50,52,1
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,16,1,2,53,18,35,49,2
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,15,3,1,43,11,32,48,3
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,13,5,1,36,11,25,44,4
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,13,3,3,38,19,19,42,5
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,10,6,3,27,17,10,36,6
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,11,3,5,30,23,7,36,7
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,8,6,5,32,23,9,30,8
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,9,3,7,29,21,8,30,9
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,8,3,8,23,28,-5,27,10
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,8,3,8,18,23,-5,27,11
+,Hull City,Hull,8667,                    /teams/8667/overview/hull-city,19,7,4,8,20,21,-1,25,12
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,7,3,9,25,26,-1,24,13
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,19,6,6,7,17,18,-1,24,14
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,6,5,8,33,26,7,23,15
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,4,9,6,24,27,-3,21,16
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,6,3,10,22,29,-7,21,17
+,Cardiff City,Cardiff,8344,                    /teams/8344/overview/cardiff-city,19,5,5,9,20,35,-15,20,18
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,5,3,11,21,27,-6,18,19
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,5,3,11,24,38,-14,18,20
+---------AWAY----------,,,,,,,,,,,,,
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,10,5,4,48,32,16,35,1
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,11,2,6,32,30,2,35,2
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,10,4,5,39,24,15,34,3
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,10,4,5,35,22,13,34,4
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,10,4,5,28,16,12,34,5
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,10,3,6,25,28,-3,33,6
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,8,6,5,23,20,3,30,7
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,7,5,7,22,23,-1,26,8
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,7,1,11,20,31,-11,22,9
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,5,5,9,20,33,-13,20,10
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,5,4,10,21,28,-7,19,11
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,5,3,11,15,25,-10,18,12
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,4,5,10,17,32,-15,17,13
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,4,4,11,15,25,-10,16,14
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,3,6,10,19,32,-13,15,15
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,3,5,11,18,35,-17,14,16
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,4,2,13,16,47,-31,14,17
+,Hull City,Hull,8667,                    /teams/8667/overview/hull-city,19,3,3,13,18,32,-14,12,18
+,Cardiff City,Cardiff,8344,                    /teams/8344/overview/cardiff-city,19,2,4,13,12,39,-27,10,19
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,19,2,3,14,11,44,-33,9,20
+---------FORM----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,5,0,0,14,3,11,15,1
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,5,0,0,12,1,11,15,2
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,5,4,0,1,10,4,6,12,3
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,3,1,1,10,6,4,10,4
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,5,3,1,1,8,4,4,10,5
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,3,1,1,6,3,3,10,6
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,3,1,1,11,10,1,10,7
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,5,3,0,2,9,5,4,9,8
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,5,2,2,1,4,2,2,8,9
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,5,2,2,1,9,9,0,8,10
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,2,1,2,8,5,3,7,11
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,2,0,3,8,8,0,6,12
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,5,1,2,2,7,11,-4,5,13
+,Cardiff City,Cardiff,8344,                    /teams/8344/overview/cardiff-city,5,1,1,3,3,10,-7,4,14
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,5,1,1,3,4,12,-8,4,15
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,5,1,0,4,5,8,-3,3,16
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,5,1,0,4,3,7,-4,3,17
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,5,1,0,4,3,8,-5,3,18
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,5,0,1,4,2,10,-8,1,19
+,Hull City,Hull,8667,                    /teams/8667/overview/hull-city,5,0,1,4,4,13,-9,1,20
+Processing JSON object 5,,,,,,,,,,,,,
+2014/2015,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,26,9,3,73,32,41,87,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,24,7,7,83,38,45,79,2
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,22,9,7,71,36,35,75,3
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,20,10,8,62,37,25,70,4
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,19,7,12,58,53,5,64,5
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,18,8,12,52,48,4,62,6
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,38,18,6,14,54,33,21,60,7
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,38,16,8,14,46,49,-3,56,8
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,38,15,9,14,48,45,3,54,9
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,38,13,9,16,47,51,-4,48,10
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,12,11,15,48,50,-2,47,11
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,38,12,11,15,44,47,-3,47,12
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,38,11,11,16,38,51,-13,44,13
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,38,11,8,19,46,55,-9,41,14
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,38,10,9,19,40,63,-23,39,15
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,38,7,17,14,31,53,-22,38,16
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,38,10,8,20,31,57,-26,38,17
+,Hull City,Hull,8667,                    /teams/8667/overview/hull-city,38,8,11,19,33,51,-18,35,18
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,38,7,12,19,28,53,-25,33,19
+,Queens Park Rangers,QPR,10172,                    /teams/10172/overview/queens-park-rangers,38,8,6,24,42,73,-31,30,20
+---------HOME----------,,,,,,,,,,,,,
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,15,4,0,36,9,27,49,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,14,3,2,44,14,30,45,2
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,14,2,3,41,15,26,44,3
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,12,5,2,41,14,27,41,4
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,11,4,4,37,13,24,37,5
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,10,5,4,30,20,10,35,6
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,10,3,6,32,22,10,33,7
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,10,3,6,31,24,7,33,8
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,9,5,5,27,22,5,32,9
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,9,4,6,25,18,7,31,10
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,7,7,5,27,21,6,28,11
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,7,5,7,28,22,6,26,12
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,7,5,7,26,27,-1,26,13
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,7,4,8,24,26,-2,25,14
+,Queens Park Rangers,QPR,10172,                    /teams/10172/overview/queens-park-rangers,19,6,5,8,23,24,-1,23,15
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,6,3,10,21,27,-6,21,16
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,5,6,8,18,25,-7,21,17
+,Hull City,Hull,8667,                    /teams/8667/overview/hull-city,19,5,5,9,19,24,-5,20,18
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,4,8,7,16,27,-11,20,19
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,4,7,8,14,21,-7,19,20
+---------AWAY----------,,,,,,,,,,,,,
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,11,5,3,37,23,14,38,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,10,4,5,39,24,15,34,2
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,10,4,5,30,22,8,34,3
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,9,4,6,27,29,-2,31,4
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,7,6,6,26,24,2,27,5
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,8,3,8,22,28,-6,27,6
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,6,8,5,21,22,-1,26,7
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,7,3,9,19,27,-8,24,8
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,7,2,10,17,20,-3,23,9
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,5,6,8,16,23,-7,21,10
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,5,4,10,21,29,-8,19,11
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,4,7,8,14,25,-11,19,12
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,3,9,7,15,26,-11,18,13
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,5,2,12,13,32,-19,17,14
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,3,7,9,19,29,-10,16,15
+,Hull City,Hull,8667,                    /teams/8667/overview/hull-city,19,3,6,10,14,27,-13,15,16
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,4,3,12,18,33,-15,15,17
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,3,5,11,14,32,-18,14,18
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,3,4,12,14,36,-22,13,19
+,Queens Park Rangers,QPR,10172,                    /teams/10172/overview/queens-park-rangers,19,2,1,16,19,49,-30,7,20
+---------FORM----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,5,0,0,16,4,12,15,1
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,5,3,1,1,11,4,7,10,2
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,3,1,1,8,6,2,10,3
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,5,3,0,2,8,7,1,9,4
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,5,2,2,1,10,4,6,8,5
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,2,2,1,8,4,4,8,6
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,5,2,2,1,5,4,1,8,7
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,5,2,2,1,6,5,1,8,8
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,5,2,1,2,2,2,0,7,9
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,2,1,2,5,6,-1,7,10
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,2,0,3,7,7,0,6,11
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,5,2,0,3,5,6,-1,6,12
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,5,2,0,3,7,12,-5,6,13
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,1,2,2,3,6,-3,5,14
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,5,1,1,3,9,9,0,4,15
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,5,1,1,3,2,5,-3,4,16
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,5,1,1,3,6,9,-3,4,17
+,Hull City,Hull,8667,                    /teams/8667/overview/hull-city,5,1,1,3,2,6,-4,4,18
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,1,1,3,5,12,-7,4,19
+,Queens Park Rangers,QPR,10172,                    /teams/10172/overview/queens-park-rangers,5,1,1,3,4,14,-10,4,20
+Processing JSON object 6,,,,,,,,,,,,,
+2015/2016,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,38,23,12,3,68,36,32,81,1
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,20,11,7,65,36,29,71,2
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,19,13,6,69,35,34,70,3
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,19,9,10,71,41,30,66,4
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,19,9,10,49,35,14,66,5
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,38,18,9,11,59,41,18,63,6
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,38,16,14,8,65,51,14,62,7
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,16,12,10,63,50,13,60,8
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,38,14,9,15,41,55,-14,51,9
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,12,14,12,59,53,6,50,10
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,11,14,13,59,55,4,47,11
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,38,12,11,15,42,52,-10,47,12
+,Watford,Watford,9817,                    /teams/9817/overview/watford,38,12,9,17,40,50,-10,45,13
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,38,10,13,15,34,48,-14,43,14
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,38,11,9,18,39,51,-12,42,15
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,38,11,9,18,45,67,-22,42,16
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,38,9,12,17,48,62,-14,39,17
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,38,9,10,19,44,65,-21,37,18
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,38,9,7,22,39,67,-28,34,19
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,38,3,8,27,27,76,-49,17,20
+---------HOME----------,,,,,,,,,,,,,
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,12,6,1,35,18,17,42,1
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,12,5,2,27,9,18,41,2
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,12,4,3,31,11,20,40,3
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,12,2,5,47,21,26,38,4
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,10,6,3,35,15,20,36,5
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,11,3,5,39,22,17,36,6
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,9,7,3,34,26,8,34,7
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,8,8,3,33,22,11,32,8
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,8,6,5,20,20,0,30,9
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,7,7,5,32,24,8,28,10
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,8,4,7,22,24,-2,28,11
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,6,6,7,23,20,3,24,12
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,5,9,5,32,30,2,24,13
+,Watford,Watford,9817,                    /teams/9817/overview/watford,19,6,6,7,20,19,1,24,14
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,6,5,8,35,30,5,23,15
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,19,6,5,8,26,30,-4,23,16
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,6,5,8,20,26,-6,23,17
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,6,3,10,19,23,-4,21,18
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,19,5,5,9,23,34,-11,20,19
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,2,5,12,14,35,-21,11,20
+---------AWAY----------,,,,,,,,,,,,,
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,11,6,2,33,18,15,39,1
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,9,7,3,34,20,14,34,2
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,8,7,4,34,25,9,31,3
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,7,7,5,31,25,6,28,4
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,7,7,5,24,20,4,28,5
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,8,4,7,30,28,2,28,6
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,7,6,6,20,19,1,27,7
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,7,5,7,27,23,4,26,8
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,7,4,8,22,26,-4,25,9
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,5,9,5,24,25,-1,24,10
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,6,5,8,19,31,-12,23,11
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,19,6,4,9,22,33,-11,22,12
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,5,6,8,20,28,-8,21,13
+,Watford,Watford,9817,                    /teams/9817/overview/watford,19,6,3,10,20,31,-11,21,14
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,4,8,7,14,22,-8,20,15
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,4,5,10,22,32,-10,17,16
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,3,6,10,25,42,-17,15,17
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,19,3,2,14,13,37,-24,11,18
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,2,3,14,12,41,-29,9,19
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,1,3,15,13,41,-28,6,20
+---------FORM----------,,,,,,,,,,,,,
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,5,4,1,0,15,7,8,13,1
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,3,2,0,9,2,7,11,2
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,3,1,1,9,5,4,10,3
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,5,2,3,0,11,5,6,9,4
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,5,2,3,0,9,4,5,9,5
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,5,2,3,0,9,5,4,9,6
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,5,3,0,2,11,9,2,9,7
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,5,2,1,2,8,10,-2,7,8
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,1,3,1,10,8,2,6,9
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,1,3,1,10,8,2,6,10
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,1,3,1,7,7,0,6,11
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,2,0,3,6,11,-5,6,12
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,1,2,2,9,10,-1,5,13
+,Watford,Watford,9817,                    /teams/9817/overview/watford,5,1,1,3,8,13,-5,4,14
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,5,1,1,3,4,9,-5,4,15
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,5,1,1,3,4,12,-8,4,16
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,5,0,3,2,3,8,-5,3,17
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,5,1,0,4,4,10,-6,3,18
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,5,0,1,4,5,12,-7,1,19
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,5,0,1,4,4,12,-8,1,20
+Processing JSON object 7,,,,,,,,,,,,,
+2016/2017,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,30,3,5,85,33,52,93,1
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,26,8,4,86,26,60,86,2
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,23,9,6,80,39,41,78,3
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,22,10,6,78,42,36,76,4
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,23,6,9,77,44,33,75,5
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,18,15,5,54,29,25,69,6
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,17,10,11,62,44,18,61,7
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,38,12,10,16,41,48,-7,46,8
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,38,12,10,16,55,67,-12,46,9
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,38,12,9,17,43,51,-8,45,10
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,38,12,9,17,47,64,-17,45,11
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,38,12,8,18,48,63,-15,44,12
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,38,11,11,16,41,56,-15,44,13
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,38,12,5,21,50,63,-13,41,14
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,38,12,5,21,45,70,-25,41,15
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,38,11,7,20,39,55,-16,40,16
+,Watford,Watford,9817,                    /teams/9817/overview/watford,38,11,7,20,40,68,-28,40,17
+,Hull City,Hull,8667,                    /teams/8667/overview/hull-city,38,9,7,22,37,80,-43,34,18
+,Middlesbrough,Middlesbrough,8549,                    /teams/8549/overview/middlesbrough,38,5,13,20,27,53,-26,28,19
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,38,6,6,26,29,69,-40,24,20
+---------HOME----------,,,,,,,,,,,,,
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,17,2,0,47,9,38,53,1
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,17,0,2,55,17,38,51,2
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,14,3,2,39,16,23,45,3
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,13,4,2,42,16,26,43,4
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,12,5,2,45,18,27,41,5
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,11,7,1,37,17,20,40,6
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,8,10,1,26,12,14,34,7
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,10,4,5,31,25,6,34,8
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,10,3,6,26,20,6,33,9
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,19,9,4,6,35,29,6,31,10
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,9,2,8,27,22,5,29,11
+,Watford,Watford,9817,                    /teams/9817/overview/watford,19,8,4,7,25,29,-4,28,12
+,Hull City,Hull,8667,                    /teams/8667/overview/hull-city,19,8,4,7,28,35,-7,28,13
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,7,6,6,24,24,0,27,14
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,8,3,8,27,34,-7,27,15
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,7,4,8,19,31,-12,25,16
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,6,6,7,17,21,-4,24,17
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,6,2,11,24,25,-1,20,18
+,Middlesbrough,Middlesbrough,8549,                    /teams/8549/overview/middlesbrough,19,4,6,9,17,23,-6,18,19
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,3,5,11,16,34,-18,14,20
+---------AWAY----------,,,,,,,,,,,,,
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,13,3,3,30,16,14,42,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,12,2,5,43,22,21,38,2
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,10,5,4,28,17,11,35,3
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,10,5,4,33,24,9,35,4
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,9,6,4,39,17,22,33,5
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,9,3,7,38,28,10,30,6
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,6,4,9,24,27,-3,22,7
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,6,3,10,26,38,-12,21,8
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,5,5,9,28,33,-5,20,9
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,4,6,9,20,28,-8,18,10
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,4,5,10,17,32,-15,17,11
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,3,7,9,16,29,-13,16,12
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,19,3,6,10,20,38,-18,15,13
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,4,2,13,18,36,-18,14,14
+,Watford,Watford,9817,                    /teams/9817/overview/watford,19,3,3,13,15,39,-24,12,15
+,Middlesbrough,Middlesbrough,8549,                    /teams/8549/overview/middlesbrough,19,1,7,11,10,30,-20,10,16
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,2,4,13,17,38,-21,10,17
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,19,3,1,15,13,35,-22,10,18
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,1,4,14,13,35,-22,7,19
+,Hull City,Hull,8667,                    /teams/8667/overview/hull-city,19,1,3,15,9,45,-36,6,20
+---------FORM----------,,,,,,,,,,,,,
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,5,0,0,16,4,12,15,1
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,5,0,0,13,2,11,15,2
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,4,1,0,17,4,13,13,3
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,5,4,1,0,8,2,6,13,4
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,4,0,1,17,4,13,12,5
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,5,3,2,0,10,4,6,11,6
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,3,1,1,9,2,7,10,7
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,5,2,2,1,3,5,-2,8,8
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,5,2,1,2,7,9,-2,7,9
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,1,2,2,4,5,-1,5,10
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,5,1,2,2,2,4,-2,5,11
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,5,1,2,2,4,8,-4,5,12
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,5,1,1,3,6,8,-2,4,13
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,1,1,3,2,7,-5,4,14
+,Middlesbrough,Middlesbrough,8549,                    /teams/8549/overview/middlesbrough,5,1,1,3,4,10,-6,4,15
+,Hull City,Hull,8667,                    /teams/8667/overview/hull-city,5,1,1,3,3,13,-10,4,16
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,5,1,0,4,4,10,-6,3,17
+,Sunderland,Sunderland,8472,                    /teams/8472/overview/sunderland,5,1,0,4,3,10,-7,3,18
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,5,0,1,4,4,9,-5,1,19
+,Watford,Watford,9817,                    /teams/9817/overview/watford,5,0,0,5,3,14,-11,0,20
+Processing JSON object 8,,,,,,,,,,,,,
+2017/2018,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,32,4,2,106,27,79,100,1
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,25,6,7,68,28,40,81,2
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,23,8,7,74,36,38,77,3
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,21,12,5,84,38,46,75,4
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,21,7,10,62,38,24,70,5
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,19,6,13,74,51,23,63,6
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,38,14,12,12,36,39,-3,54,7
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,13,10,15,44,58,-14,49,8
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,38,12,11,15,56,60,-4,47,9
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,38,12,8,18,39,47,-8,44,10
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,38,11,11,16,45,55,-10,44,11
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,38,11,11,16,45,61,-16,44,12
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,38,10,12,16,48,68,-20,42,13
+,Watford,Watford,9817,                    /teams/9817/overview/watford,38,11,8,19,44,64,-20,41,14
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,38,9,13,16,34,54,-20,40,15
+,Huddersfield Town,Huddersfield,9796,                    /teams/9796/overview/huddersfield-town,38,9,10,19,28,58,-30,37,16
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,38,7,15,16,37,56,-19,36,17
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,38,8,9,21,28,56,-28,33,18
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,38,7,12,19,35,68,-33,33,19
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,38,6,13,19,31,56,-25,31,20
+---------HOME----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,16,2,1,61,14,47,50,1
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,15,2,2,54,20,34,47,2
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,15,2,2,38,9,29,47,3
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,12,7,0,45,10,35,43,4
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,13,4,2,40,16,24,43,5
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,11,4,4,30,16,14,37,6
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,10,4,5,28,22,6,34,7
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,19,7,8,4,24,25,-1,29,8
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,8,4,7,21,17,4,28,9
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,7,6,6,25,22,3,27,10
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,7,6,6,24,26,-2,27,11
+,Watford,Watford,9817,                    /teams/9817/overview/watford,19,7,6,6,27,31,-4,27,12
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,7,5,7,29,27,2,26,13
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,7,5,7,16,17,-1,26,14
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,19,7,5,7,26,30,-4,26,15
+,Huddersfield Town,Huddersfield,9796,                    /teams/9796/overview/huddersfield-town,19,6,5,8,16,25,-9,23,16
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,6,3,10,17,24,-7,21,17
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,5,5,9,20,30,-10,20,18
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,4,7,8,20,26,-6,19,19
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,3,9,7,21,29,-8,18,20
+---------AWAY----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,16,2,1,45,13,32,50,1
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,10,4,5,34,20,14,34,2
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,10,4,5,30,19,11,34,3
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,10,3,6,32,22,10,33,4
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,9,5,5,39,28,11,32,5
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,7,7,5,20,22,-2,28,6
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,5,5,9,31,38,-7,20,7
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,4,6,9,16,28,-12,18,8
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,19,4,6,9,19,31,-12,18,9
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,3,8,8,17,30,-13,17,10
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,4,4,11,20,31,-11,16,11
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,4,4,11,18,30,-12,16,12
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,3,6,10,24,42,-18,15,13
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,3,6,10,16,36,-20,15,14
+,Watford,Watford,9817,                    /teams/9817/overview/watford,19,4,2,13,17,33,-16,14,15
+,Huddersfield Town,Huddersfield,9796,                    /teams/9796/overview/huddersfield-town,19,3,5,11,12,33,-21,14,16
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,3,4,12,10,27,-17,13,17
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,19,2,7,10,15,38,-23,13,18
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,19,2,6,11,11,32,-21,12,19
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,19,2,5,12,10,29,-19,11,20
+---------FORM----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,4,1,0,13,2,11,13,1
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,5,4,1,0,12,3,9,13,2
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,3,1,1,9,6,3,10,3
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,3,1,1,5,2,3,10,4
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,5,3,1,1,5,4,1,10,5
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,3,1,1,5,5,0,10,6
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,3,0,2,12,6,6,9,7
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,2,2,1,9,3,6,8,8
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,5,2,2,1,4,3,1,8,9
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,2,2,1,6,5,1,8,10
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,5,2,1,2,7,9,-2,7,11
+,Stoke City,Stoke,10194,                    /teams/10194/overview/stoke-city,5,1,3,1,5,5,0,6,12
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,5,2,0,3,4,8,-4,6,13
+,Huddersfield Town,Huddersfield,9796,                    /teams/9796/overview/huddersfield-town,5,1,2,2,2,4,-2,5,14
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,5,1,2,2,3,8,-5,5,15
+,Watford,Watford,9817,                    /teams/9817/overview/watford,5,1,1,3,2,5,-3,4,16
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,5,1,1,3,7,13,-6,4,17
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,5,1,0,4,4,5,-1,3,18
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,5,0,2,3,3,10,-7,2,19
+,Swansea City,Swansea,10003,                    /teams/10003/overview/swansea-city,5,0,0,5,1,10,-9,0,20
+Processing JSON object 9,,,,,,,,,,,,,
+2018/2019,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,32,2,4,95,23,72,98,1
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,30,7,1,89,22,67,97,2
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,21,9,8,63,39,24,72,3
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,23,2,13,67,39,28,71,4
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,21,7,10,73,51,22,70,5
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,19,9,10,65,54,11,66,6
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,38,16,9,13,47,46,1,57,7
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,15,9,14,54,46,8,54,8
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,38,15,7,16,51,48,3,52,9
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,38,15,7,16,52,55,-3,52,10
+,Watford,Watford,9817,                    /teams/9817/overview/watford,38,14,8,16,52,59,-7,50,11
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,38,14,7,17,51,53,-2,49,12
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,38,12,9,17,42,48,-6,45,13
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,38,13,6,19,56,70,-14,45,14
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,38,11,7,20,45,68,-23,40,15
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,38,9,12,17,45,65,-20,39,16
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,38,9,9,20,35,60,-25,36,17
+,Cardiff City,Cardiff,8344,                    /teams/8344/overview/cardiff-city,38,10,4,24,34,69,-35,34,18
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,38,7,5,26,34,81,-47,26,19
+,Huddersfield Town,Huddersfield,9796,                    /teams/9796/overview/huddersfield-town,38,3,7,28,22,76,-54,16,20
+---------HOME----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,18,0,1,57,12,45,54,1
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,17,2,0,55,10,45,53,2
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,14,3,2,42,16,26,45,3
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,12,6,1,39,12,27,42,4
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,12,2,5,34,16,18,38,5
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,10,6,3,33,25,8,36,6
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,10,4,5,30,21,9,34,7
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,10,4,5,28,21,7,34,8
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,9,4,6,32,27,5,31,9
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,19,8,5,6,30,25,5,29,10
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,8,3,8,24,20,4,27,11
+,Watford,Watford,9817,                    /teams/9817/overview/watford,19,8,3,8,26,28,-2,27,12
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,8,1,10,24,25,-1,25,13
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,5,8,6,27,30,-3,23,14
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,7,2,10,24,32,-8,23,15
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,19,6,5,8,19,28,-9,23,16
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,6,3,10,22,36,-14,21,17
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,5,5,9,19,23,-4,20,18
+,Cardiff City,Cardiff,8344,                    /teams/8344/overview/cardiff-city,19,6,2,11,21,38,-17,20,19
+,Huddersfield Town,Huddersfield,9796,                    /teams/9796/overview/huddersfield-town,19,2,3,14,10,31,-21,9,20
+---------AWAY----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,14,2,3,38,11,27,44,1
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,13,5,1,34,12,22,44,2
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,11,0,8,33,23,10,33,3
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,9,3,7,32,29,3,30,4
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,9,3,7,24,27,-3,30,5
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,9,2,8,32,30,2,29,6
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,7,4,8,27,28,-1,25,7
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,7,4,8,31,35,-4,25,8
+,Watford,Watford,9817,                    /teams/9817/overview/watford,19,6,5,8,26,31,-5,23,9
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,6,5,8,19,25,-6,23,10
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,6,3,10,20,28,-8,21,11
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,5,5,9,24,25,-1,20,12
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,4,8,7,18,23,-5,20,13
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,4,5,10,21,36,-15,17,14
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,4,4,11,18,35,-17,16,15
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,19,5,1,13,26,45,-19,16,16
+,Cardiff City,Cardiff,8344,                    /teams/8344/overview/cardiff-city,19,4,2,13,13,31,-18,14,17
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,19,3,4,12,16,32,-16,13,18
+,Huddersfield Town,Huddersfield,9796,                    /teams/9796/overview/huddersfield-town,19,1,4,14,12,45,-33,7,19
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,1,2,16,12,45,-33,5,20
+---------FORM----------,,,,,,,,,,,,,
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,5,0,0,14,2,12,15,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,5,0,0,9,1,8,15,2
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,5,3,1,1,11,5,6,10,3
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,5,3,1,1,11,5,6,10,4
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,5,3,1,1,6,4,2,10,5
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,5,3,1,1,12,10,2,10,6
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,5,3,0,2,4,5,-1,9,7
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,2,2,1,8,4,4,8,8
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,5,2,1,2,12,9,3,7,9
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,1,3,1,6,5,1,6,10
+,Cardiff City,Cardiff,8344,                    /teams/8344/overview/cardiff-city,5,2,0,3,6,6,0,6,11
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,5,1,2,2,5,4,1,5,12
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,1,1,3,3,5,-2,4,13
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,5,1,1,3,5,8,-3,4,14
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,1,1,3,7,11,-4,4,15
+,Watford,Watford,9817,                    /teams/9817/overview/watford,5,1,1,3,5,11,-6,4,16
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,5,0,3,2,3,7,-4,3,17
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,5,0,3,2,6,11,-5,3,18
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,0,2,3,2,10,-8,2,19
+,Huddersfield Town,Huddersfield,9796,                    /teams/9796/overview/huddersfield-town,5,0,2,3,3,13,-10,2,20
+Processing JSON object 10,,,,,,,,,,,,,
+2019/2020,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,32,3,3,85,33,52,99,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,26,3,9,102,35,67,81,2
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,18,12,8,66,36,30,66,3
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,20,6,12,69,54,15,66,4
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,38,18,8,12,67,41,26,62,5
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,16,11,11,61,47,14,59,6
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,38,15,14,9,51,40,11,59,7
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,14,14,10,56,48,8,56,8
+,Sheffield United,Sheff Utd,8657,                    /teams/8657/overview/sheffield-united,38,14,12,12,39,39,0,54,9
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,38,15,9,14,43,50,-7,54,10
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,38,15,7,16,51,60,-9,52,11
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,13,10,15,44,56,-12,49,12
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,38,11,11,16,38,58,-20,44,13
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,38,11,10,17,31,50,-19,43,14
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,38,9,14,15,39,54,-15,41,15
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,38,10,9,19,49,62,-13,39,16
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,38,9,8,21,41,67,-26,35,17
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,38,9,7,22,40,65,-25,34,18
+,Watford,Watford,9817,                    /teams/9817/overview/watford,38,8,10,20,36,64,-28,34,19
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,38,5,6,27,26,75,-49,21,20
+---------HOME----------,,,,,,,,,,,,,
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,18,1,0,52,16,36,55,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,15,2,2,57,13,44,47,2
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,12,3,4,36,17,19,39,3
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,10,7,2,40,17,23,37,4
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,11,4,4,35,17,18,37,5
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,11,3,5,30,16,14,36,6
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,10,6,3,36,24,12,36,7
+,Sheffield United,Sheff Utd,8657,                    /teams/8657/overview/sheffield-united,19,10,3,6,24,15,9,33,8
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,8,7,4,27,19,8,31,9
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,8,7,4,24,21,3,31,10
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,8,4,7,24,23,1,28,11
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,6,8,5,20,21,-1,26,12
+,Watford,Watford,9817,                    /teams/9817/overview/watford,19,6,6,7,22,27,-5,24,13
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,7,3,9,22,30,-8,24,14
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,6,5,8,15,20,-5,23,15
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,6,4,9,30,33,-3,22,16
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,19,5,7,7,20,27,-7,22,17
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,19,5,6,8,22,30,-8,21,18
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,6,3,10,21,35,-14,21,19
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,19,4,3,12,19,37,-18,15,20
+---------AWAY----------,,,,,,,,,,,,,
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,14,2,3,33,17,16,44,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,11,1,7,45,22,23,34,2
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,9,4,6,30,25,5,31,3
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,9,3,7,39,38,1,30,4
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,8,5,6,26,19,7,29,5
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,7,7,5,24,21,3,28,6
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,7,5,7,19,27,-8,26,7
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,7,4,8,32,24,8,25,8
+,Sheffield United,Sheff Utd,8657,                    /teams/8657/overview/sheffield-united,19,4,9,6,15,24,-9,21,9
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,4,8,7,20,24,-4,20,10
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,4,8,7,25,30,-5,20,11
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,5,5,9,16,30,-14,20,12
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,19,4,7,8,19,27,-8,19,13
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,5,3,11,20,35,-15,18,14
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,5,3,11,18,37,-19,18,15
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,4,5,10,19,29,-10,17,16
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,19,4,1,14,18,35,-17,13,17
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,2,5,12,19,37,-18,11,18
+,Watford,Watford,9817,                    /teams/9817/overview/watford,19,2,4,13,14,37,-23,10,19
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,19,1,3,15,7,38,-31,6,20
+---------FORM----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,5,0,0,21,1,20,15,1
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,3,2,0,10,3,7,11,2
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,3,2,0,9,3,6,11,3
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,3,1,1,13,8,5,10,4
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,5,2,3,0,9,5,4,9,5
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,3,0,2,9,10,-1,9,6
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,5,2,2,1,9,4,5,8,7
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,5,2,2,1,6,4,2,8,8
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,5,2,2,1,5,5,0,8,9
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,5,2,1,2,6,4,2,7,10
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,5,2,1,2,8,6,2,7,11
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,2,1,2,7,7,0,7,12
+,Sheffield United,Sheff Utd,8657,                    /teams/8657/overview/sheffield-united,5,2,0,3,5,6,-1,6,13
+,Watford,Watford,9817,                    /teams/9817/overview/watford,5,2,0,3,7,12,-5,6,14
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,1,2,2,4,8,-4,5,15
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,5,1,2,2,4,10,-6,5,16
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,5,1,1,3,4,10,-6,4,17
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,5,0,1,4,3,10,-7,1,18
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,5,0,1,4,3,13,-10,1,19
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,5,0,0,5,1,14,-13,0,20
+Processing JSON object 11,,,,,,,,,,,,,
+2020/2021,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,27,5,6,83,32,51,86,1
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,21,11,6,73,44,29,74,2
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,20,9,9,68,42,26,69,3
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,19,10,9,58,36,22,67,4
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,38,20,6,12,68,50,18,66,5
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,38,19,8,11,62,47,15,65,6
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,18,8,12,68,45,23,62,7
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,18,7,13,55,39,16,61,8
+,Leeds United,Leeds,8463,                    /teams/8463/overview/leeds-united,38,18,5,15,62,54,8,59,9
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,17,8,13,47,48,-1,59,10
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,38,16,7,15,55,46,9,55,11
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,38,12,9,17,46,62,-16,45,12
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,38,12,9,17,36,52,-16,45,13
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,38,12,8,18,41,66,-25,44,14
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,38,12,7,19,47,68,-21,43,15
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,38,9,14,15,40,46,-6,41,16
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,38,10,9,19,33,55,-22,39,17
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,38,5,13,20,27,53,-26,28,18
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,38,5,11,22,35,76,-41,26,19
+,Sheffield United,Sheff Utd,8657,                    /teams/8657/overview/sheffield-united,38,7,2,29,20,63,-43,23,20
+---------HOME----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,13,2,4,43,17,26,41,1
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,10,4,5,32,22,10,34,2
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,10,3,6,35,20,15,33,3
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,9,6,4,31,18,13,33,4
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,10,3,6,29,20,9,33,5
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,9,4,6,38,28,10,31,6
+,Leeds United,Leeds,8463,                    /teams/8463/overview/leeds-united,19,8,5,6,28,21,7,29,7
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,9,1,9,34,30,4,28,8
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,8,4,7,24,21,3,28,9
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,8,3,8,28,25,3,27,10
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,7,4,8,29,27,2,25,11
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,7,4,8,21,25,-4,25,12
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,6,5,8,26,33,-7,23,13
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,6,5,8,20,32,-12,23,14
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,6,4,9,24,28,-4,22,15
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,19,4,9,6,22,22,0,21,16
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,4,6,9,14,27,-13,18,17
+,Sheffield United,Sheff Utd,8657,                    /teams/8657/overview/sheffield-united,19,5,1,13,12,27,-15,16,18
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,3,6,10,15,39,-24,15,19
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,2,4,13,9,28,-19,10,20
+---------AWAY----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,14,3,2,40,15,25,45,1
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,12,7,0,35,16,19,43,2
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,11,5,3,34,20,14,38,3
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,11,4,4,23,20,3,37,4
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,10,6,3,39,22,17,36,5
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,10,4,5,27,18,9,34,6
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,10,3,6,31,18,13,33,7
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,9,4,6,30,25,5,31,8
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,9,3,7,26,19,7,30,9
+,Leeds United,Leeds,8463,                    /teams/8463/overview/leeds-united,19,10,0,9,34,33,1,30,10
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,8,5,6,33,25,8,29,11
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,6,4,9,20,29,-9,22,12
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,6,3,10,19,28,-9,21,13
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,6,3,10,21,34,-13,21,14
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,19,5,5,9,18,24,-6,20,15
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,5,5,9,15,27,-12,20,16
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,3,9,7,18,25,-7,18,17
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,4,4,11,19,43,-24,16,18
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,19,2,5,12,20,37,-17,11,19
+,Sheffield United,Sheff Utd,8657,                    /teams/8657/overview/sheffield-united,19,2,1,16,8,36,-28,7,20
+---------FORM----------,,,,,,,,,,,,,
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,5,0,0,13,3,10,15,1
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,5,0,0,11,2,9,15,2
+,Leeds United,Leeds,8463,                    /teams/8463/overview/leeds-united,5,4,0,1,12,4,8,12,3
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,5,3,1,1,9,4,5,10,4
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,3,0,2,14,8,6,9,5
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,3,0,2,12,7,5,9,6
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,3,0,2,7,5,2,9,7
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,5,3,0,2,10,8,2,9,8
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,5,2,1,2,7,7,0,7,9
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,2,1,2,9,9,0,7,10
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,5,2,1,2,7,8,-1,7,11
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,2,1,2,2,6,-4,7,12
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,5,2,0,3,6,9,-3,6,13
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,5,2,0,3,7,10,-3,6,14
+,Sheffield United,Sheff Utd,8657,                    /teams/8657/overview/sheffield-united,5,2,0,3,2,7,-5,6,15
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,5,1,1,3,4,7,-3,4,16
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,5,1,1,3,8,12,-4,4,17
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,5,1,0,4,3,10,-7,3,18
+,West Bromwich Albion,West Brom,8659,                    /teams/8659/overview/west-bromwich-albion,5,0,1,4,5,12,-7,1,19
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,5,0,1,4,2,10,-8,1,20
+Processing JSON object 12,,,,,,,,,,,,,
+2021/2022,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,29,6,3,99,26,73,93,1
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,28,8,2,94,26,68,92,2
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,21,11,6,76,33,43,74,3
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,22,5,11,69,40,29,71,4
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,22,3,13,61,48,13,69,5
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,16,10,12,57,57,0,58,6
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,38,16,8,14,60,51,9,56,7
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,38,14,10,14,62,59,3,52,8
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,38,12,15,11,42,44,-2,51,9
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,38,15,6,17,38,43,-5,51,10
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,38,13,10,15,44,62,-18,49,11
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,38,11,15,12,50,46,4,48,12
+,Brentford,Brentford,9937,                    /teams/9937/overview/brentford,38,13,7,18,48,56,-8,46,13
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,38,13,6,19,52,54,-2,45,14
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,38,9,13,16,43,67,-24,40,15
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,11,6,21,43,66,-23,39,16
+,Leeds United,Leeds,8463,                    /teams/8463/overview/leeds-united,38,9,11,18,42,79,-37,38,17
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,38,7,14,17,34,53,-19,35,18
+,Watford,Watford,9817,                    /teams/9817/overview/watford,38,6,5,27,34,77,-43,23,19
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,38,5,7,26,23,84,-61,22,20
+---------HOME----------,,,,,,,,,,,,,
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,15,4,0,49,9,40,49,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,15,2,2,58,15,43,47,2
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,13,2,4,35,17,18,41,3
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,13,1,5,38,19,19,40,4
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,10,5,4,32,22,10,35,5
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,9,7,3,37,22,15,34,6
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,10,4,5,34,23,11,34,7
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,9,5,5,33,26,7,32,8
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,8,6,5,26,27,-1,30,9
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,7,8,4,27,17,10,29,10
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,9,2,8,27,25,2,29,11
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,6,7,6,23,24,-1,25,12
+,Brentford,Brentford,9937,                    /teams/9937/overview/brentford,19,7,3,9,22,21,1,24,13
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,7,3,9,20,25,-5,24,14
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,6,5,8,29,29,0,23,15
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,19,5,7,7,19,23,-4,22,16
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,5,6,8,18,25,-7,21,17
+,Leeds United,Leeds,8463,                    /teams/8463/overview/leeds-united,19,4,6,9,19,38,-19,18,18
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,19,3,3,13,12,43,-31,12,19
+,Watford,Watford,9817,                    /teams/9817/overview/watford,19,2,2,15,17,46,-29,8,20
+---------AWAY----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,14,4,1,41,11,30,46,1
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,13,4,2,45,17,28,43,2
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,12,4,3,39,11,28,40,3
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,9,4,6,31,21,10,31,4
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,19,7,8,4,23,21,2,29,5
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,9,1,9,26,31,-5,28,6
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,8,3,8,18,18,0,27,7
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,7,3,9,27,25,2,24,8
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,6,5,8,25,35,-10,23,9
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,7,1,11,23,25,-2,22,10
+,Brentford,Brentford,9937,                    /teams/9937/overview/brentford,19,6,4,9,26,35,-9,22,11
+,Leeds United,Leeds,8463,                    /teams/8463/overview/leeds-united,19,5,5,9,23,41,-18,20,12
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,4,7,8,23,29,-6,19,13
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,5,4,10,18,35,-17,19,14
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,4,6,9,28,36,-8,18,15
+,Watford,Watford,9817,                    /teams/9817/overview/watford,19,4,3,12,17,31,-14,15,16
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,3,6,10,20,43,-23,15,17
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,19,2,8,9,16,28,-12,14,18
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,2,4,13,16,41,-25,10,19
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,19,2,4,13,11,41,-30,10,20
+---------FORM----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,4,1,0,19,5,14,13,1
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,4,1,0,13,2,11,13,2
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,4,1,0,9,4,5,13,3
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,5,3,2,0,13,4,9,11,4
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,5,3,1,1,14,5,9,10,5
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,5,3,1,1,7,5,2,10,6
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,3,0,2,9,8,1,9,7
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,5,3,0,2,7,7,0,9,8
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,2,2,1,8,5,3,8,9
+,Brentford,Brentford,9937,                    /teams/9937/overview/brentford,5,2,1,2,7,7,0,7,10
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,2,1,2,8,11,-3,7,11
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,5,1,2,2,8,8,0,5,12
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,5,1,1,3,8,8,0,4,13
+,Burnley,Burnley,8191,                    /teams/8191/overview/burnley,5,1,1,3,5,8,-3,4,14
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,1,1,3,5,9,-4,4,15
+,Leeds United,Leeds,8463,                    /teams/8463/overview/leeds-united,5,1,1,3,4,11,-7,4,16
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,5,0,2,3,5,14,-9,2,17
+,Watford,Watford,9817,                    /teams/9817/overview/watford,5,0,1,4,3,10,-7,1,18
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,5,0,1,4,5,13,-8,1,19
+,Norwich City,Norwich,9850,                    /teams/9850/overview/norwich-city,5,0,1,4,1,15,-14,1,20
+Processing JSON object 13,,,,,,,,,,,,,
+2022/2023,,,,,,,,,,,,,
+Premier League,,,,,,,,,,,,,
+---------ALL----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,38,28,5,5,94,33,61,89,1
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,38,26,6,6,88,43,45,84,2
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,38,23,6,9,58,43,15,75,3
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,38,19,14,5,68,33,35,71,4
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,38,19,10,9,75,47,28,67,5
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,38,18,8,12,72,53,19,62,6
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,38,18,7,13,51,46,5,61,7
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,38,18,6,14,70,63,7,60,8
+,Brentford,Brentford,9937,                    /teams/9937/overview/brentford,38,15,14,9,58,46,12,59,9
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,38,15,7,16,55,53,2,52,10
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,38,11,12,15,40,49,-9,45,11
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,38,11,11,16,38,47,-9,44,12
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,38,11,8,19,31,58,-27,41,13
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,38,11,7,20,42,55,-13,40,14
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,38,11,6,21,37,71,-34,39,15
+,Nottingham Forest,Nottm Forest,10203,                    /teams/10203/overview/nottingham-forest,38,9,11,18,38,68,-30,38,16
+,Everton,Everton,8668,                    /teams/8668/overview/everton,38,8,12,18,34,57,-23,36,17
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,38,9,7,22,51,68,-17,34,18
+,Leeds United,Leeds,8463,                    /teams/8463/overview/leeds-united,38,7,10,21,48,78,-30,31,19
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,38,6,7,25,36,73,-37,25,20
+---------HOME----------,,,,,,,,,,,,,
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,17,1,1,60,17,43,52,1
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,15,3,1,36,10,26,48,2
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,14,3,2,53,25,28,45,3
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,13,5,1,46,17,29,44,4
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,11,6,2,36,14,22,39,5
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,12,2,5,33,21,12,38,6
+,Brentford,Brentford,9937,                    /teams/9937/overview/brentford,19,10,7,2,35,18,17,37,7
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,12,1,6,37,25,12,37,8
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,19,10,4,5,37,21,16,34,9
+,Nottingham Forest,Nottm Forest,10203,                    /teams/10203/overview/nottingham-forest,19,8,6,5,27,24,3,30,10
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,9,3,7,19,20,-1,30,11
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,8,5,6,31,29,2,29,12
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,8,4,7,26,24,2,28,13
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,7,7,5,21,23,-2,28,14
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,6,7,6,20,19,1,25,15
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,19,6,4,9,20,28,-8,22,16
+,Leeds United,Leeds,8463,                    /teams/8463/overview/leeds-united,19,5,7,7,26,37,-11,22,17
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,6,3,10,16,27,-11,21,18
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,5,4,10,23,27,-4,19,19
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,2,5,12,19,37,-18,11,20
+---------AWAY----------,,,,,,,,,,,,,
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,19,12,3,4,35,18,17,39,1
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,19,11,4,4,34,16,18,37,2
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,19,8,8,3,32,19,13,32,3
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,19,8,4,7,35,32,3,28,4
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,19,8,3,8,22,33,-11,27,5
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,19,7,2,10,24,24,0,23,6
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,19,6,5,8,29,30,-1,23,7
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,19,6,5,8,33,38,-5,23,8
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,19,6,5,8,18,25,-7,23,9
+,Brentford,Brentford,9937,                    /teams/9937/overview/brentford,19,5,7,7,23,28,-5,22,10
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,19,5,4,10,18,28,-10,19,11
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,19,4,5,10,19,26,-7,17,12
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,19,5,2,12,17,43,-26,17,13
+,Everton,Everton,8668,                    /teams/8668/overview/everton,19,2,9,8,18,30,-12,15,14
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,19,4,3,12,28,41,-13,15,15
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,19,4,2,13,17,36,-19,14,16
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,19,3,3,13,16,31,-15,12,17
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,19,2,5,12,12,38,-26,11,18
+,Leeds United,Leeds,8463,                    /teams/8463/overview/leeds-united,19,2,3,14,22,41,-19,9,19
+,Nottingham Forest,Nottm Forest,10203,                    /teams/10203/overview/nottingham-forest,19,1,5,13,11,44,-33,8,20
+---------FORM----------,,,,,,,,,,,,,
+,Manchester United,Man United,10260,                    /teams/10260/overview/manchester-united,5,4,0,1,9,3,6,12,1
+,Brentford,Brentford,9937,                    /teams/9937/overview/brentford,5,4,0,1,8,3,5,12,2
+,Liverpool,Liverpool,8650,                    /teams/8650/overview/liverpool,5,3,2,0,10,5,5,11,3
+,Manchester City,Man City,8456,                    /teams/8456/overview/manchester-city,5,3,1,1,7,3,4,10,4
+,Arsenal,Arsenal,9825,                    /teams/9825/overview/arsenal,5,3,0,2,10,5,5,9,5
+,Everton,Everton,8668,                    /teams/8668/overview/everton,5,2,2,1,9,7,2,8,6
+,Crystal Palace,Crystal Palace,9826,                    /teams/9826/overview/crystal-palace,5,2,2,1,9,7,2,8,7
+,Nottingham Forest,Nottm Forest,10203,                    /teams/10203/overview/nottingham-forest,5,2,2,1,9,8,1,8,8
+,Fulham,Fulham,9879,                    /teams/9879/overview/fulham,5,2,1,2,10,8,2,7,9
+,Brighton & Hove Albion,Brighton,10204,                    /teams/10204/overview/brighton--hove-albion,5,2,1,2,9,8,1,7,10
+,Aston Villa,Aston Villa,10252,                    /teams/10252/overview/aston-villa,5,2,1,2,5,5,0,7,11
+,Newcastle United,Newcastle,10261,                    /teams/10261/overview/newcastle-united,5,1,3,1,7,6,1,6,12
+,Tottenham Hotspur,Tottenham,8586,                    /teams/8586/overview/tottenham-hotspur,5,2,0,3,10,10,0,6,13
+,West Ham United,West Ham,8654,                    /teams/8654/overview/west-ham-united,5,2,0,3,5,8,-3,6,14
+,Chelsea,Chelsea,8455,                    /teams/8455/overview/chelsea,5,1,2,2,7,9,-2,5,15
+,Leicester City,Leicester,8197,                    /teams/8197/overview/leicester-city,5,1,2,2,7,11,-4,5,16
+,Wolverhampton Wanderers,Wolves,8602,                    /teams/8602/overview/wolverhampton-wanderers,5,1,1,3,2,14,-12,4,17
+,AFC Bournemouth,Bournemouth,8678,                    /teams/8678/overview/afc-bournemouth,5,1,0,4,5,8,-3,3,18
+,Southampton,Southampton,8466,                    /teams/8466/overview/southampton,5,0,1,4,9,16,-7,1,19
+,Leeds United,Leeds,8463,                    /teams/8463/overview/leeds-united,5,0,1,4,6,15,-9,1,20
