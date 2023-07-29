@@ -1,0 +1,10 @@
+,0,1
+0,id,47
+1,type,league
+2,name,Premier League
+3,selectedSeason,2010/2011
+4,latestSeason,2023/2024
+5,shortName,Premier League
+6,country,ENG
+7,faqJSONLD,None
+8,breadcrumbJSONLD,"{'@context': 'https://schema.org', '@type': 'BreadcrumbList', 'itemListElement': [{'@type': 'ListItem', 'position': 1, 'name': 'Home', 'item': 'https://www.fotmob.com'}, {'@type': 'ListItem', 'position': 2, 'name': 'Premier League', 'item': 'https://www.fotmob.com/leagues/47/overview/premier-league'}]}"
